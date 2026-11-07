@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "Ridge-Hurdle Negative Binomial Regression: R code and data"
+authors:
+  - family-names: Nayem
+    given-names: HM
+    affiliation: Florida International University
+  - family-names: Kibria
+    given-names: B. M. Golam
+    affiliation: Florida International University
+preferred-citation:
+  type: article
+  title: "The Ridge-Hurdle Negative Binomial Regression Model: A Novel Solution for Zero-Inflated Counts in the Presence of Multicollinearity"
+  authors:
+    - family-names: Nayem
+      given-names: HM
+    - family-names: Kibria
+      given-names: B. M. Golam
+  journal: Stats
+  year: 2025
+  volume: 8
+  issue: 4
+  start: 102
+  doi: 10.3390/stats8040102
